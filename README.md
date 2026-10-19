@@ -1,2 +1,0 @@
-# Yash-Bhandare
-c project
